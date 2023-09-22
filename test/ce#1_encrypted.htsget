@@ -1,0 +1,9 @@
+{ "htsget" : {
+    "format:" : "BAM",
+    "urls" : [
+      {
+        "url" : "data:;base64,Y3J5cHQ0Z2gBAAAAAQAAAGwAAAAAAAAAPKiNwcDsDUXGrqzqRz+MXWNlWc5Je1RRS6UYsOuqwgtbrb7qv05kyeFo6whU4reqB+GmwsjjCNaG+4qJ9QlbzW4LLeMgi+QYYbwE3/bB3Psb8+u2/yxlb6/eIUbw2W+ZkCDTj+f6Pw7QW+zmqPnqaGo1Bhqr/18D5D+kOCHJ2Nn/mF4iRdEWLOxxt+iyuI8nky9y/rv2/AuTQlPyrPFyCAZVaJJ0UBTCOyQXRZLPjknPA68W2Dui+VUFtDy6dzudJKxet15an7/LsYYJDB87QAa9K84tumo1AOsUJ4qRIy7feMYyPUR5CQsLEjQDyKNiQc5Xgr8N+NgH399GgpsKbPagnRH3fWgHz0xPghixMiiOMBITiPJl1nU0+QpAar6wJWPdywTj73y6o3AMRoIczuiuSntvLg4KAvJEdwDqOEqDc6MdE22C6JCalh89WJnV+hBki9S+E2TatvCa9UsEMZ7MuxK9G6+i7dK8oyng4Qtf5b5UyaT42cR0eTr7CA=="
+      }
+    ]
+  }
+}
